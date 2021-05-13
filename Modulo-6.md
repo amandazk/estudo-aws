@@ -4,7 +4,11 @@
 
 ### Seção 1 - Visão geral dos serviços de computação
 
-![image-20210512103422048](C:\Users\Amanda\Documents\AWS\imagens\imagem-8.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-8.png" width="700px">
+  
+</p>
 
 
 
