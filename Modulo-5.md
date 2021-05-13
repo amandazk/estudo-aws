@@ -32,8 +32,11 @@ Uma **sub-rede** representa um segmento isolado de sua VPC com seu próprio inte
 
 **Endereçamento IP**: habilitam recursos em sua VPC para se comunicarem entre si e também recursos na Internet. Ao criar uma VPC, você atribui um bloco CIDR IPv4, o que significa um intervalo de endereços IPv4 privados.
 
-![image-20210508215955832](C:\Users\Amanda\Documents\AWS\imagens\imagem-2.png)
-
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-2.png" width="700px">
+  
+</p>
 **Interface de rede elástica**:
 
 - É uma interface de rede virtual que você pode:
@@ -62,8 +65,11 @@ Um VPC **endpoint** é um dispositivo virtual que permite que você conecte sua 
 
 **AWS PrivateLink**: requer um endpoint de interface VPC. Simplifica a segurança dos dados compartilhados com aplicativos baseados na nuvem, eliminando a exposição dos dados à Internet pública.
 
-![image-20210509104010813](C:\Users\Amanda\Documents\AWS\imagens\imagem-3.png)
-
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-3.png" width="700px">
+  
+</p>
 
 
 **Laboratório - Crie sua VPC e execute um servidor web**
@@ -76,7 +82,11 @@ O assistente também criará um *gateway NAT*, que é usado para fornecer conect
 
 O assistente provisionou uma VPC com uma sub-rede pública e uma  sub-rede privada na mesma zona de disponibilidade, com tabelas de rotas  para cada sub-rede:
 
-![image-20210510150840265](C:\Users\Amanda\Documents\AWS\imagens\imagem-4.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-4.png" width="700px">
+  
+</p>
 
 A sub-rede pública tem o CIDR **10.0.0.0/24**, o que significa que contém todos os endereços IP que começam com **10.0.0.x**.
 
@@ -86,11 +96,19 @@ A sub-rede privada tem o CIDR **10.0.1.0/24**, o que significa que contém todos
 
 Sua VPC agora tem sub-redes públicas e privadas configuradas em duas zonas de disponibilidade:
 
-![image-20210510152240059](C:\Users\Amanda\Documents\AWS\imagens\imagem-5.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-5.png" width="700px">
+  
+</p>
 
 A arquitetura completa que você implantou é:
 
-![image-20210510160633116](C:\Users\Amanda\Documents\AWS\imagens\imagem-6.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-6.png" width="700px">
+  
+</p>
 
 
 
@@ -106,7 +124,11 @@ Um grupo de segurança atua como um firewall virtual que controla o tráfego de 
 
 Listas de controle de acesso à rede funcionam no nível da sub-rede e controlam o tráfego de entrada e saída da sub-rede.  
 
-![image-20210510161438883](C:\Users\Amanda\Documents\AWS\imagens\imagem-7.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-7.png" width="700px">
+  
+</p>
 
 
 
