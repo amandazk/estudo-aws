@@ -6,7 +6,11 @@
 
 **Segurança e conformidade são responsabilidades compartilhadas entre a AWS e os clientes**. O modelo de responsabilidade compartilhada da AWS basicamente indica quais partes de segurança serão tratadas pela AWS e por quais partes os clientes são responsáveis.
 
-![imagem-1](C:\Users\Amanda\Documents\AWS\imagens\imagem-1.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-1.png" width="350px">
+  
+</p>
 
 
 
