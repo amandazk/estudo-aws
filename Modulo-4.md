@@ -8,7 +8,7 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
-  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-1.png" width="350px">
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-1.png" width="700px">
   
 </p>
 
