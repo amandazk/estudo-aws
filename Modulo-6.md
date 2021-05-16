@@ -74,7 +74,12 @@ Opções de armazenamento do Amazon EC2:
 
 A Amazon oferece diferentes modelos de definição de preço para escolher quando você deseja executar instâncias do EC2.
 
-![image-20210514132528906](C:\Users\Amanda\Documents\AWS\imagens\imagem-9.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-9.png" width="700px">
+  
+</p>
+
 
 - **Instâncias sob demanda**: baixo custo e flexibilidade
 - **Instâncias spot**: carga de trabalho dinâmica e em grande escala
