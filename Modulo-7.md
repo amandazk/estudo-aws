@@ -134,5 +134,3 @@ Um **cofre** é um contêiner para armazenar arquivos. Ao criar um cofre, você 
 
 ![image-20210519143044600](C:\Users\Amanda\Documents\AWS\imagens\imagem-13.png)
 
-
-
