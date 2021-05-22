@@ -10,7 +10,12 @@ Ao executar seu próprio banco de dados relacional, você é responsável por v�
 
 Para resolver os desafios da execução de uma banco de dados relacional autônomo não gerenciado, a AWS fornece o RDS, um serviço que configura, opera e dimensiona bancos de dados relacionais sem nenhuma administração contínua.
 
-![image-20210520131546758](C:\Users\Amanda\Documents\AWS\imagens\imagem-14.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-14.png" width="700px">
+  
+</p>
 
 Casos de uso do Amazon RDS:
 
@@ -44,7 +49,12 @@ Um **banco de dados não relacional** é qualquer banco de dados que não segue 
 
 Tabelas, itens e atributos são os principais componentes do DynamoDB. Ele oferece suporte a dois tipos diferentes de chaves primárias: chave de partição e chave de partição e de classificação. 
 
-![image-20210520143713851](C:\Users\Amanda\Documents\AWS\imagens\imagem-15.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-15.png" width="700px">
+  
+</p>
 
 
 
