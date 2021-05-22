@@ -37,7 +37,12 @@ Existem seis princípios de design para a excelência operacional:
 - Prever falhas
 - Aprender com eventos e falhas operacionais
 
-![image-20210521105238364](C:\Users\Amanda\Documents\AWS\imagens\imagem-16.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-16.png" width="700px">
+  
+</p>
 
 
 
@@ -62,7 +67,12 @@ Existem sete princípios de design que podem melhorar a segurança:
 - Manter as pessoas longe dos dados
 - Preparar-se para eventos de segurança
 
-![image-20210521111310923](C:\Users\Amanda\Documents\AWS\imagens\imagem-17.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-17.png" width="700px">
+  
+</p>
 
 
 
@@ -85,7 +95,12 @@ Existem cinco princípios de design que podem aumentar a confiabilidade:
 - Pare de tentar adivinhar a capacidade
 - Gerenciar alterações na automação
 
-![image-20210521140442449](C:\Users\Amanda\Documents\AWS\imagens\imagem-18.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-18.png" width="700px">
+  
+</p>
 
 
 
@@ -109,8 +124,12 @@ Existem cinco princípios de design que podem melhorar a eficiência do desempen
 - Experimentar com mais frequência
 - Ter afinidade mecânica
 
-![image-20210521143004942](C:\Users\Amanda\Documents\AWS\imagens\imagem-19.png)
-
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-19.png" width="700px">
+  
+</p>
 
 
 
@@ -134,8 +153,13 @@ Existem cinco princípios de design que podem melhorar a otimização de custos:
 - Analisar e atribuir despesas
 - Usar serviços gerenciados e em nível de aplicativo para reduzir custo de propriedade
 
-![image-20210521153436292](C:\Users\Amanda\Documents\AWS\imagens\imagem-20.png)
 
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-20.png" width="700px">
+  
+</p>
 
 
 
