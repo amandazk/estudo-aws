@@ -30,10 +30,18 @@ Para prover um nível ainda mais alto de durabilidade de dados, com o Amazon EBS
 Também é possível compartilhar instantâneos ou até copiar esses instantâneos para diferentes regiões da AWS para uma proteção de recuperação de desastres ainda melhor.
 
 Você também pode criptografar volumes do Amazon EBS sem custo adicional. É também possível aumentar a capacidade e mudar para diferentes tipos (elasticidade).
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-10.png" width="700px">
+  
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-11.png" width="700px">
+  
+</p>
 
-![image-20210518130345507](C:\Users\Amanda\Documents\AWS\imagens\imagem-10.png)
 
-![image-20210518130514583](C:\Users\Amanda\Documents\AWS\imagens\imagem-11.png)
 
 
 
@@ -109,8 +117,12 @@ O Amazon EFS implementa armazenamento para instâncias do EC2 que várias máqui
 - Compatível com todas as AMIs baseadas em Linux para o Amazon EC2
 
 Amazon EFS como armazenamento de arquivos na nuvem. Com ele, você pode criar um sistema de arquivos, montar o sistema de arquivos em uma instância do Amazon EC2, ler e gravar dados de/para seu sistema de arquivos. Você pode montar um sistema de arquivos do Amazon EFS em sua VPC.
-
-![image-20210519135800385](C:\Users\Amanda\Documents\AWS\imagens\imagem-12.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-12.png" width="700px">
+  
+</p>
 
 
 
@@ -132,5 +144,10 @@ Um **cofre** é um contêiner para armazenar arquivos. Ao criar um cofre, você 
 
  As **políticas de ciclo de vida do Amazon S3** permitem que você exclua ou mova objetos com base na idade.
 
-![image-20210519143044600](C:\Users\Amanda\Documents\AWS\imagens\imagem-13.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-13.png" width="700px">
+  
+</p>
 
