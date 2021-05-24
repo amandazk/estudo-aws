@@ -6,7 +6,12 @@
 
 O Elastic Load Balancing **distribui o tráfego de entrada do aplicativo ou da rede entre vários destinos** em uma única zona de disponibilidade ou em várias zonas de disponibilidade. Ele escala seu load balancer à medida que o tráfego para seu aplicativo muda com o tempo.
 
-![image-20210524100607591](C:\Users\Amanda\Documents\AWS\imagens\imagem-22.png)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-22.png" width="700px">
+
+</p>
+
 
 Existem três tipos de load balancer:
 
@@ -18,7 +23,13 @@ Como o Elastic Load Balancing funciona:
 
 Um load balancer aceita o tráfego de entrada dos clientes e roteia solicitações para seus destinos registrados em uma ou mais zonas de disponibilidade. Você pode configurar seu load balancer para aceitar o tráfego de entrada especificando um ou mais listeners. Um listener é um processo que verifica se há solicitações de conexão. 
 
-![image-20210524104131964](C:\Users\Amanda\Documents\AWS\imagens\imagem-23.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-23.png" width="700px">
+
+</p>
+
 
 **Casos de uso:**
 
