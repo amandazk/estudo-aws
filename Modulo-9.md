@@ -178,7 +178,13 @@ Há dois fatores importantes que os arquitetos de nuvem consideram ao projetar a
 - O tempo de inatividade é minimizado
 - Necessidade mínima de intervenção humana
 
-![image-20210522160329335](C:\Users\Amanda\Documents\AWS\imagens\imagem-21.png)
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+
+  <img alt="imagem1" title="#imagem1" src="./imagens/imagem-21.png" width="700px">
+
+</p>
+
 
 Fatores que influenciam a disponibilidade:
 
