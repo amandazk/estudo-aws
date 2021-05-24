@@ -39,9 +39,9 @@ Existem seis princípios de design para a excelência operacional:
 
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	
+
   <img alt="imagem1" title="#imagem1" src="./imagens/imagem-16.png" width="700px">
-  
+
 </p>
 
 
@@ -69,9 +69,9 @@ Existem sete princípios de design que podem melhorar a segurança:
 
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	
+
   <img alt="imagem1" title="#imagem1" src="./imagens/imagem-17.png" width="700px">
-  
+
 </p>
 
 
@@ -97,9 +97,9 @@ Existem cinco princípios de design que podem aumentar a confiabilidade:
 
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	
+
   <img alt="imagem1" title="#imagem1" src="./imagens/imagem-18.png" width="700px">
-  
+
 </p>
 
 
@@ -126,9 +126,9 @@ Existem cinco princípios de design que podem melhorar a eficiência do desempen
 
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	
+
   <img alt="imagem1" title="#imagem1" src="./imagens/imagem-19.png" width="700px">
-  
+
 </p>
 
 
@@ -156,15 +156,47 @@ Existem cinco princípios de design que podem melhorar a otimização de custos:
 
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	
+
   <img alt="imagem1" title="#imagem1" src="./imagens/imagem-20.png" width="700px">
-  
+
 </p>
 
 
 
 
 ### Seção 7 - Confiabilidade e disponibilidade
+
+Há dois fatores importantes que os arquitetos de nuvem consideram ao projetar arquiteturas para suportar falhas: confiabilidade e disponibilidade.
+
+**Confiabilidade** é uma medida da capacidade do sistema de fornecer funcionalidade quando desejado pelo usuário. Como "tudo falha o tempo todo" você deve pensar na confiabilidade em termos estatísticos. Confiabilidade é a probabilidade de que todo o sistema funcione como pretendido para um período especificado. O sistema inclui todos os componentes do sistema: hardware, firmware e software. Tempo médio entre falhas (MTBF) = tempo total em serviço / número de falhas.
+
+**Disponibilidade** é a porcentagem de tempo em que um sistema está operando normalmente ou corretamente executando as operações dele ou o tempo de operação normal ao longo do tempo total. A disponibilidade é reduzida sempre que o aplicativo não está funcionando normalmente, incluindo interrupções programadas e não programadas.
+
+**Alta disponibilidade**:
+
+- O sistema pode suportar alguma medida de degradação e ainda permanecer disponível
+- O tempo de inatividade é minimizado
+- Necessidade mínima de intervenção humana
+
+![image-20210522160329335](C:\Users\Amanda\Documents\AWS\imagens\imagem-21.png)
+
+Fatores que influenciam a disponibilidade:
+
+- **Tolerância a falhas**: a redundância integrada dos componentes de um aplicativo e sua capacidade de permanecer operacional
+- **Escalabilidade**: a capacidade de um aplicativo acomodar aumentos nas necessidades de capacidade sem alterar o design
+- **Capacidade de recuperação**: o processo, as políticas e os procedimentos relacionados ao serviço de restauração após um evento catastrófico
+
+
+
+### Seção 8 - AWS Trusted Advisor
+
+O AWS Trusted Advisor é uma ferramenta online que fornece orientações em tempo real para ajudar você a provisionar seus recursos de acordo com as melhores práticas da AWS. Ele examina todo o seu ambiente AWS e oferece recomendações em tempo real em cinco categorias.
+
+- Otimização de custos
+- Desempenho
+- Segurança
+- Tolerância a falhas
+- Service Limits
 
 
 
